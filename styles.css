@@ -1,0 +1,76 @@
+* {
+    font-family: sans-serif;
+    color: #fff;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    padding: 10px 0;
+}
+body {
+    background-color: rgb(21, 21, 38);
+}
+button {
+    background-color: rgb(12,9,17);
+    color: rgb(70,70,200);
+    margin: 30px;
+    margin-top: 0;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+ul {
+    list-style-type: square;
+    padding: 15px 2em;
+}
+li {
+    padding: 5px 0;
+}
+span {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content:start;
+    background-color: rgb(12,9,17);
+    padding:1em;
+}
+.section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding:1em;
+}
+.heading {
+    width: vw;
+    height: vh;
+    padding: 2em 0;
+    background-color: rgb(12, 9, 17);
+    border-bottom: 5px solid rgb(70,70,200);
+}
+.item {
+    margin: 30px;
+    background-color: rgba(12, 9, 17,.5);
+}
+.company, .title {
+    font-weight: 600;
+    font-size: x-large;
+    display: inline-block;
+}
+.duration {
+    font-style: italic;
+    font-size: medium;
+    font-weight: 100;
+    color: rgb(200,200,250);
+    margin-left: 2em;
+}
+.position {
+    font-size: larger;
+    margin: 0;
+    padding: 10px 1em;
+    border-bottom: 5px solid rgb(12, 9, 17);
+}
+#goToJobs {
+    margin:auto;
+}
+
