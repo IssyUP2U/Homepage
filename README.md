@@ -1,3 +1,3 @@
 <p align="center">
-[GO TO WEBPAGE](https://issyup2u.github.io/Resume/)
+<a href="https://issyup2u.github.io/Resume/">GO TO WEBPAGE</a>
 </p>
